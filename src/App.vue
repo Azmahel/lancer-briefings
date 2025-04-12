@@ -101,7 +101,7 @@ export default {
         {
           "slug": "002",
           "name": "Storm of Vengeance",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "003",
